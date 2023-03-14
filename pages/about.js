@@ -1,8 +1,9 @@
-import NavBar from "./NavBar";
+import Seo from "./components/Seo";
+
 const About = () => {
   return (
     <div>
-      <NavBar></NavBar>
+      <Seo title="About"></Seo>
       <h1>About</h1>
     </div>
   );
