@@ -1,1 +1,1 @@
-@ NextJS Introduction
+Next.js 12로 영화 리스트 + 영화 상세 페이지 구현
